@@ -71,7 +71,7 @@ class Directory extends Component {
           <table className="table">
             <thead className="thead">
               <tr>
-                <th>Headshot  </th>
+                <th>Headshot</th>
                 <th>Name</th>
                 <th>Email</th>
                 <th>Phone</th>
