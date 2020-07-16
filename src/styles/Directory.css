@@ -23,6 +23,7 @@ p {
 .thead {
   background: #213862;
   font-family: 'Assistant', sans-serif;
+  font-size: large;
 }
 
 .table td, .table th {
