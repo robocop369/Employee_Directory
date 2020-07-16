@@ -12,6 +12,7 @@ p {
   color: rgb(100, 123, 253);
   font-family: 'Assistant', sans-serif;
   font-size: 1.5rem;
+  font-size: large;
 }
 
 .table {
