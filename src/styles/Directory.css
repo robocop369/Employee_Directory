@@ -27,6 +27,7 @@ p {
   background: #213862;
   font-family: 'Assistant', sans-serif;
   font-size: large;
+  margin: auto;
 }
 
 .table td, .table th {
